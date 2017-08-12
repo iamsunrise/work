@@ -1,0 +1,669 @@
+NCHGT
+1
+christie
+IP: 	10.11.66.23
+端口: 	5000
+型号: 	CP2210
+
+doremi
+管理 IP: 	10.11.66.27
+管理端口: 	11730
+软件版本: 	2.6.4.0
+序列号: 	230013
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.66.31
+端口: 	61408
+
+2
+christie
+IP: 	10.11.66.43
+端口: 	5000
+型号: 	CP2210
+
+doremi
+管理 IP: 	10.11.66.47
+管理端口: 	11730
+软件版本: 	2.6.4.0
+序列号: 	230014
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.66.51
+端口: 	61408
+
+3
+christie
+IP: 	10.11.66.63
+端口: 	5000
+型号: 	CP4220
+
+doremi
+管理 IP: 	10.11.66.67
+管理端口: 	11730
+软件版本: 	2.6.4.0
+序列号: 	230015
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.66.71
+端口: 	61408
+
+4
+christie
+IP: 	10.11.66.83
+端口: 	5000
+型号: 	CP2210
+
+doremi 
+管理 IP: 	10.11.66.87
+管理端口: 	11730
+软件版本: 	2.4.4.0
+序列号: 	275507
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.66.91
+端口: 	61408
+
+5
+christie
+IP: 	10.11.66.103
+端口: 	5000
+型号: 	CP2210
+
+doremi 
+管理 IP: 	10.11.66.107
+管理端口: 	11730
+软件版本: 	2.4.4.0
+序列号: 	230017
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.66.111
+端口: 	61408
+
+6
+christie 
+IP: 	10.11.66.123
+端口: 	5000
+型号: 	CP2210
+
+doremi
+管理 IP: 	10.11.66.127
+管理端口: 	11730
+软件版本: 	2.6.4.0
+序列号: 	230018
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.66.131
+端口: 	61408
+
+7
+IP: 	10.11.66.147
+管理端口: 	11738
+序列号: 	245152
+
+IP: 	10.11.66.147
+端口: 	11738
+
+8 
+christie 
+IP: 	10.11.66.163
+端口: 	5000
+型号: 	CP2210
+
+doremi
+管理 IP: 	10.11.66.167
+管理端口: 	11730
+软件版本: 	2.4.4.0
+序列号: 	230019
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.66.171
+端口: 	61408
+
+9
+christie 
+IP: 	10.11.66.183
+端口: 	5000
+型号: 	CP2220
+
+doremi
+管理 IP: 	10.11.66.187
+管理端口: 	11730
+软件版本: 	2.6.4.0
+序列号: 	230020
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.66.191
+端口: 	61408
+
+10
+christie 
+IP: 	10.11.66.203
+端口: 	5000
+型号: 	CP2220
+
+doremi
+管理 IP: 	10.11.66.207
+管理端口: 	11730
+软件版本: 	2.6.4.0
+序列号: 	230021
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.66.211
+端口: 	61408
+
+11
+christie 
+IP: 	10.11.67.23
+端口: 	5000
+型号: 	CP4230
+
+doremi
+管理 IP: 	10.11.67.27
+管理端口: 	11730
+软件版本: 	2.6.4.0
+序列号: 	230022
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.67.31
+端口: 	61408
+
+12
+christie 
+IP: 	10.11.67.43
+端口: 	5000
+型号: 	CP2210
+
+doremi
+管理 IP: 	10.11.67.47
+管理端口: 	11730
+软件版本: 	2.6.4.0
+序列号: 	230024
+型号: 	ShowVault
+
+dolby
+IP: 	10.11.67.51
+端口: 	61408
+
+DINGXIN
+IP:10.11.66.8
+
+NCBY
+1
+christie
+IP:     10.11.64.27
+Port:   11738
+
+doremi
+Management IP:  10.11.64.27
+Management Port:    11738
+Serial:     245012
+
+2
+christie
+IP:     10.11.64.43
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.64.47
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     291136
+Model:  DCP2000
+
+dolby
+IP:     10.11.64.51
+Port:   61408
+
+3
+christie
+IP:     10.11.64.63
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.64.67
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     291137
+Model:  DCP2000
+
+dolby
+IP:     10.11.64.71
+Port:   61408
+
+4
+christie
+IP:     10.11.64.83
+Port:   5000
+Model:  CP2210
+
+doremi
+Management IP:  10.11.64.87
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     291565
+Model:  DCP2000
+
+dolby
+IP:     10.11.64.91
+Port:   61408
+
+5
+christie
+IP:     10.11.64.103
+Port:   5000
+Model:  CP4230
+
+doremi
+Management IP:  10.11.64.107
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     291566
+Model:  DCP2000
+
+dolby
+IP:     10.11.64.111
+Port:   61408
+
+6
+christie
+IP:     10.11.64.123
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.64.127
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     291161
+Model:  DCP2000
+
+dolby
+IP:     10.11.64.131
+Port:   61408
+
+7
+christie
+IP:     10.11.64.143
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.64.147
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     257605
+Model:  DCP2000
+
+dolby
+IP:  10.11.64.151
+Port:   61408
+
+NCWDM
+1
+IP:     10.11.62.27
+Port:   11738
+
+Management IP:  10.11.62.27
+Management Port:    11738
+Serial:     265240
+
+2
+christie
+IP:     10.11.62.43
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.62.47
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280347
+Model:  ShowVault
+
+dolby
+IP:     10.11.62.51
+Port:   61408
+
+3
+christie
+IP:  10.11.62.63
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.62.67
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280368
+Model:  ShowVault
+
+dolby
+IP:     10.11.62.71
+Port:   61408
+
+5
+christie
+IP:     10.11.62.103
+Port:   5000
+Model:  CP2230
+
+doremi
+Management IP:  10.11.62.107
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280369
+Model:  ShowVaul
+
+dolby
+IP:     10.11.62.111
+Port:   61408
+
+6
+christie
+IP:     10.11.62.123
+Port:   5000
+Model:  CP4230
+
+IP:     10.11.62.125
+Port:   5000
+Model:  CP4230
+
+doremi
+Management IP:  10.11.62.127
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280153
+Model:  ShowVault
+
+doremi
+Management IP:  10.11.62.128
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280152
+Model:  ShowVault
+
+dolby
+IP:     10.11.62.131
+Port:   61408
+
+7
+christie
+IP:     10.11.62.143
+Port:   5000
+Model:  CP2230
+
+doremi
+Management IP:  10.11.62.147
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280371
+Model:  ShowVault
+
+dolby
+Management IP:  10.11.62.147
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280371
+Model:  ShowVault
+
+8
+christie 
+IP:     10.11.62.163
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.62.167
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280372
+Model:  ShowVault
+
+dolby
+IP:     10.11.62.171
+Port:   61408
+
+9
+christie
+IP:     10.11.62.183
+Port:   5000
+Model:  CP2230
+
+doremi
+Management IP:  10.11.62.187
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280373
+Model:  ShowVault
+
+dolby
+IP:     10.11.62.191
+Port:   61408
+
+10
+christie
+IP:     10.11.62.203
+Port:   5000
+Model:  CP4230
+
+doremi
+Management IP:  10.11.62.207
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280503
+Model:  ShowVault
+
+dolby
+IP:     10.11.62.211
+Port:   61408
+
+11
+christie
+IP:     10.11.63.23
+Port:   5000
+Model:  CP2220
+
+doremi 
+Management IP:  10.11.63.27
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280408
+Model:  ShowVault
+
+dolby
+IP:     10.11.63.31
+Port:   61408
+
+12
+christie
+IP:     10.11.63.43
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.63.47
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280417
+Model:  ShowVault
+
+dolby
+IP:     10.11.63.51
+Port:   61408
+
+13
+christie
+IP:     10.11.63.143
+Port:   5000
+Model:  CP2215
+
+doremi
+Management IP:  10.11.63.147
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280432
+Model:  ShowVault
+
+dolby
+IP:     10.11.63.151
+Port:   61408
+
+15
+christie
+IP:     10.11.63.103
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.63.107
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280429
+Model:  ShowVault
+
+dolby
+IP:     10.11.63.111
+Port:   61408
+
+16
+christie
+IP:     10.11.63.123
+Port:   5000
+Model:  CP4230
+
+doremi
+Management IP:  10.11.63.127
+Management Port:    11730
+Software Version:   2.6.4.0
+Serial:     280346
+Model:  ShowVault
+
+dolby
+IP:     10.11.62.131
+Port:   61408
+
+NCDG
+1
+christie
+IP:     10.11.68.23
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.68.23
+Management Port:    4502
+Software Version:   1.8.1-5333
+Serial:     00000013C4E3
+Model:  IMB-S2
+
+dolby
+IP:     10.11.68.31
+Port:   61408
+
+2
+christie
+IP:     10.11.68.43
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.68.43
+Management Port:    4502
+Software Version:   1.8.1-5333
+Serial:     0000001F4A11
+Model:  IMB-S2
+
+dolby
+IP:     10.11.68.51
+Port:   61408
+
+3
+christie
+IP:     10.11.68.63
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.68.63
+Management Port:    4502
+Software Version:   1.8.1-5333
+Serial:     00000023D5E1
+Model:  IMB-S2
+
+dolby
+IP:     10.11.68.71
+Port:   61408
+
+4
+christie
+IP:     10.11.68.83
+Port:   5000
+Model:  CP2220
+
+doremi
+Management IP:  10.11.68.83
+Management Port:    4502
+Software Version:   1.8.1-5333
+Serial:     000000220916
+Model:  IMB-S2
+
+dolby
+IP:     10.11.68.91
+Port:   61408
+
+5
+christie
+IP:     10.11.68.103
+Port:   5000
+Model:  CP2210
+
+doremi
+Management IP:  10.11.68.103
+Management Port:    4502
+Software Version:   1.8.1-5333
+Serial:     0000000D59FE
+Model:  IMB-S2
+
+dolby
+IP:     10.11.68.111
+Port:   61408
+
+6
+christie
+IP:     10.11.68.123k
+iterationTerm(cinemaName,)
+Port:   5000
+Model:  CP4230
+
+doremi
+Management IP:  10.11.68.123
+Management Port:    4502
+Software Version:   1.8.1-5333
+Serial:     0000000D18C9
+Model:  IMB-S2
+
+dolby
+IP:     10.11.68.131
+Port:   61408
+
+
+
+
+
+
+
+
+
+

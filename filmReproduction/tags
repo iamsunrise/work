@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+commands	ipLookup.py	/^import commands$/;"	i
+hallCheckNum	ipLookup.py	/^hallCheckNum=range(1,hallNumCount)$/;"	v
+hallMachine	ipLookup.py	/^hallMachine=['christle','doremi','dolby']$/;"	v
+hallNumCount	ipCheck.py	/^		 hallNumCount = hallNumCount+1$/;"	v
+hallNumCount	ipCheck.py	/^hallNumCount = 0$/;"	v
+hallNumCount	ipLookup.py	/^                 hallNumCount = hallNumCount+1$/;"	v
+hallNumCount	ipLookup.py	/^hallNumCount = 0$/;"	v
+initFile	ipCheck.py	/^def initFile(data):$/;"	f
+ip	ipLookup.py	/^ip = lookup('12','christle')$/;"	v
+ipAddrFile	ipCheck.py	/^ipAddrFile = file(ipAddrTxt)$/;"	v
+ipAddrFile	ipLookup.py	/^ipAddrFile = file(ipAddrTxt)$/;"	v
+ipAddrTxt	ipCheck.py	/^ipAddrTxt = 'ipAddr.txt'$/;"	v
+ipAddrTxt	ipLookup.py	/^ipAddrTxt = 'ipAddr.txt'$/;"	v
+ipAddrline	ipCheck.py	/^ipAddrline = ipAddrFile.readlines()$/;"	v
+ipAddrline	ipLookup.py	/^ipAddrline = ipAddrFile.readlines()$/;"	v
+ipFile	ipCheck.py	/^ipFile = {}$/;"	v
+ipaddrfile	ipCheck.py	/^ipaddrfile = []$/;"	v
+ipaddrfile	ipLookup.py	/^ipaddrfile = []$/;"	v
+line	ipCheck.py	/^	line = lines.strip("\\n")$/;"	v
+line	ipCheck.py	/^	line = lines.strip()$/;"	v
+line	ipLookup.py	/^        line = lines.strip("\\n")$/;"	v
+line	ipLookup.py	/^        line = lines.strip()$/;"	v
+lookup	ipLookup.py	/^def lookup(hallNum,machineMode):$/;"	f
+lookupIP	ipCheck.py	/^def lookupIP(data,hallNum,machineMode):$/;"	f
+os	ipCheck.py	/^import os$/;"	i
+os	ipLookup.py	/^import os$/;"	i
+seq	ipCheck.py	/^seq = ()$/;"	v
+sys	ipLookup.py	/^import sys$/;"	i

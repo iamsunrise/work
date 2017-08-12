@@ -1,0 +1,5 @@
+[Centos6.5]
+name=Centos6.5
+baseurl=http://10.11.10.114/6.5-64
+enables=1
+gpgcheck=0
